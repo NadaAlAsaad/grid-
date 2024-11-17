@@ -1,1 +1,1 @@
-# grid-
+This project uses Python's turtle module to create a 5x5 grid of randomly colored squares. A function called draw_square is defined to draw a square at specified coordinates with a random RGB fill color. The main loop iterates through rows and columns, calculating the positions for each square and calling the draw_square function. The result is a vibrant grid displayed in a turtle graphics window that remains open until closed manually.
